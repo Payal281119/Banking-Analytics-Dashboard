@@ -131,10 +131,11 @@ The dataset contains:
 
 ## 📸 Dashboard Preview
 
-![Overview Dashboard](images/overview.png)
-![Customer Dashboard](images/customer.png)
-![Risk Dashboard](images/risk.png)
-![Finance Dashboard](images/finance.png)
+![Overview Dashboard](Banking Analytics Overview.png)
+![Customer Dashboard](Banking Analytics Customer.png)
+![Risk Dashboard](Banking Analytics Risk.png)
+![Finance Dashboard](Banking Analytics Finance.png)
+![Insights Dashboard](Banking Analytics Insights.png)
 
 
 ### Dashboard Insights
